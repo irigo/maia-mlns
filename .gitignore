@@ -1,7 +1,7 @@
 # Streamlit
-.streamlit/
-*.streamlit.app
 .streamlit/secrets.toml
+.streamlit/cache/
+*.streamlit.app
 
 # Python
 __pycache__/
